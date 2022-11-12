@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "942491510042",
+    "project_id": "gestfanz",
+    "storage_bucket": "gestfanz.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:942491510042:android:19aba1f7b5a9d5f53838a3",
+        "android_client_info": {
+          "package_name": "com.prasoon.gestfanz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "942491510042-5s8j3qkt7sbgcqem3e8sofd8jr810og1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeFELJ20BQTg4nx1P4rVrjagM1tnv93Ec"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "942491510042-5s8j3qkt7sbgcqem3e8sofd8jr810og1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
